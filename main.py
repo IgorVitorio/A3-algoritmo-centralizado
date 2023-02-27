@@ -1,5 +1,4 @@
 # A3 da UC de Sistemas distribuídos e mobile
-# Igor Vitório França Araujo - 1271925281
 
 #Algoritmo Centralizado
 import time
